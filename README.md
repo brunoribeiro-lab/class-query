@@ -36,10 +36,10 @@ themselves. To create libraries/packages please read the
     ``` json
     {
 	"repositories": [
-	    { "type": "git", "url": "https://github.com/offboard/Class-Query"}
+	    { "type": "git", "url": "https://github.com/brunoribeiro-lab/class-query"}
 	], 
         "require": {  
-            "offboard/class-query": "dev-master"
+            "brunoribeiro-lab/class-query": "dev-master"
         }
     }
     ```
