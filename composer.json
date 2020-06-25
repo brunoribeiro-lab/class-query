@@ -3,7 +3,7 @@
     "type": "library",
     "description": "This is a script to make life easier for programmers beginners, medium or advanced. This script connects to the database using mysqli method check out the README.md there has some usage examples.",
     "keywords": ["Easy Class Query.", "php class query"],
-    "homepage": "http://github.com/offboard/Class-Query",
+    "homepage": "http://github.com/brunoribeiro-lab/class-query",
     "license": "MIT",
     "authors": [{
             "name": "Bruno Ribeiro",
