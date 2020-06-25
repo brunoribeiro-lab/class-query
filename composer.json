@@ -1,5 +1,5 @@
 {
-    "name": "offboard/Class-Query",
+    "name": "brunoribeiro-lab/class-query",
     "type": "library",
     "description": "This is a script to make life easier for programmers beginners, medium or advanced. This script connects to the database using mysqli method check out the README.md there has some usage examples.",
     "keywords": ["Easy Class Query.", "php class query"],
@@ -7,7 +7,7 @@
     "license": "MIT",
     "authors": [{
             "name": "Bruno Ribeiro",
-            "email": "brunowribeiroo@facebook.com"
+            "email": "bruno.espertinho@gmail.com"
         },{
             "name": "Zachbor",
             "email": "zachborboa@gmail.com"
